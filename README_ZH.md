@@ -1,5 +1,7 @@
 # HTTP请求批量工具 GUI V1 说明书
 
+https://github.com/allen-x233/HttpRequestTool_GUI
+
 ## 简介
 本工具为可视化GUI版，支持批量读取Excel中的HTTP请求数据，自动发送请求，并将响应结果写回Excel。支持代理、证书导入、超时设置、请求间隔、强制HTTPS、SSL验证等高级功能，适合接口测试、自动化批量请求等场景。
 
@@ -107,4 +109,4 @@
 
 ---
 
-如有问题或建议，请联系开发者。
+如有问题或建议，请联系[开发者](https://github.com/allen-x233/HttpRequestTool_GUI)。
