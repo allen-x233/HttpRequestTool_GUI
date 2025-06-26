@@ -6,6 +6,7 @@
 This tool provides a visual GUI for batch reading HTTP request data from Excel files, automatically sending requests, and writing responses back to Excel. It supports proxy, certificate import, timeout settings, request interval, forced HTTPS, SSL verification, and more. It is ideal for API testing and automated batch requests.
 
 ---
+![image](https://github.com/user-attachments/assets/0713f8cf-ef2c-41d3-9fbd-b8d727b0fee4)
 
 ## Features Overview
 - **Batch HTTP Requests from Excel**: Automatically send HTTP requests defined in Excel.
