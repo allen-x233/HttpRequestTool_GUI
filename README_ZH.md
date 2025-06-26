@@ -18,6 +18,7 @@ https://github.com/allen-x233/HttpRequestTool_GUI
 - **详细日志输出**：界面实时显示每一步操作和错误信息，便于排查问题。
 
 ---
+![image](https://github.com/user-attachments/assets/6e978f74-6bd8-41fa-97eb-ed3322be9529)
 
 ## 界面元素说明
 
