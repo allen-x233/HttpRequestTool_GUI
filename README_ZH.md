@@ -19,6 +19,9 @@ https://github.com/allen-x233/HttpRequestTool_GUI
 
 ---
 ![image](https://github.com/user-attachments/assets/6e978f74-6bd8-41fa-97eb-ed3322be9529)
+![image](https://github.com/user-attachments/assets/746fa021-959a-4c2b-b450-a43f9597b715)
+![image](https://github.com/user-attachments/assets/a5045f61-61aa-4902-b87a-97ca375bcef7)
+![image](https://github.com/user-attachments/assets/771a282b-051f-44bf-8031-39116d6eea17)
 
 ## 界面元素说明
 
