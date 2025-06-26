@@ -1,6 +1,6 @@
 # HTTP Request Batch Tool GUI V1 - User Guide
 
-[HTTP请求批量工具 GUI V1 说明书](https://github.com/allen-x233/HttpRequestTool_GUI/blob/main/README_ZH.md)
+[HTTP请求批量工具 GUI V1 中文说明书](https://github.com/allen-x233/HttpRequestTool_GUI/blob/main/README_ZH.md)
 
 ## Introduction
 This tool provides a visual GUI for batch reading HTTP request data from Excel files, automatically sending requests, and writing responses back to Excel. It supports proxy, certificate import, timeout settings, request interval, forced HTTPS, SSL verification, and more. It is ideal for API testing and automated batch requests.
